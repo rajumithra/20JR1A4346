@@ -1,0 +1,14 @@
+.train-schedule {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .train-schedule .train-card {
+    flex: 1 1 300px;
+  }
+  
+  .train-schedule .spinner {
+    margin-top: 50px;
+  }
+  
